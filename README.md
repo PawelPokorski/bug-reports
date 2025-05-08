@@ -17,7 +17,6 @@ Każde zgłoszenie posiada unikalny kod w formacie `XXY ###`, gdzie:
 |-----|------------------|
 | B   | Bug (błąd)       |
 | S   | Suggestion       |
-| I   | Improvement      |
 | D   | Documentation    |
 
 ### Przykład:
